@@ -1,3 +1,4 @@
 Mi segunda subida
 Tercera
 cuarta estoy escribiendo en un repositorio de git
+Nuestro fichero es el bueno, no nos gustan los conflictos
